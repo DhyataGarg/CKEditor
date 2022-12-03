@@ -1,3 +1,10 @@
+# CK EDITOR
+
+A highly configurable WYSIWYG HTML editor with hundreds of features, from creating rich text content with captioned images, videos, tables, or media embeds to pasting from Word and drag&drop image upload.
+
+https://user-images.githubusercontent.com/75577624/205455984-daf9fe0f-7208-4da1-a098-e0f83aa041cf.mp4
+
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
