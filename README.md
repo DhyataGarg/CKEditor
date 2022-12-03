@@ -1,6 +1,6 @@
 # CK EDITOR
 
-This site is published at: https://ck-editor-liart.vercel.app
+This site is published on https://ck-editor-liart.vercel.app
 
 A highly configurable WYSIWYG HTML editor with hundreds of features, from creating rich text content with captioned images, videos, tables, or media embeds to pasting from Word and drag&drop image upload.
 
