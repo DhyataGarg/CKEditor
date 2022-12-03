@@ -2,6 +2,8 @@
 
 A highly configurable WYSIWYG HTML editor with hundreds of features, from creating rich text content with captioned images, videos, tables, or media embeds to pasting from Word and drag&drop image upload.
 
+I have integrated CK Editor with React.js and side by side the content is shown in a separate element by state maangement.
+
 https://user-images.githubusercontent.com/75577624/205455984-daf9fe0f-7208-4da1-a098-e0f83aa041cf.mp4
 
 
